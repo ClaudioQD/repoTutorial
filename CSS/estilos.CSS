@@ -1,0 +1,23 @@
+.slide{
+	margin.top:40px;
+}
+
+.slide img{
+	height:70vh;
+
+}
+.brush {
+	font-family:'brush script mt';
+}
+.container{
+	background-color: #E5BE01;
+	padding: 2em;
+	overflow: hidden;
+}
+.item{
+margin: 2em;
+padding: 0.5em;
+color: #ffffff;
+float: left;
+
+}
